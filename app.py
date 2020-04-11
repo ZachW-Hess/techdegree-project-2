@@ -1,1 +1,1 @@
-import constants.py
+import constants
